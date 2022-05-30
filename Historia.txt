@@ -4,3 +4,5 @@ Hola, ¿como estas?
 Esta es mi historia con GIT
 Espero que me sirva esta herramienta
 para entender los cambios en el codigo
+
+Actualmente estoy en el area de CS 
