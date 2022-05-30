@@ -2,4 +2,5 @@ Hola, ¿como estas?
 
 
 Esta es mi historia con GIT
-Hasta ahora me parece una excelente herramienta
+Espero que me sirva esta herramienta
+para entender los cambios en el codigo
